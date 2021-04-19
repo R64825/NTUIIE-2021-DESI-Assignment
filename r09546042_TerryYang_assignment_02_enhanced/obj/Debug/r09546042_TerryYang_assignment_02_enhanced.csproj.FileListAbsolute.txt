@@ -1,0 +1,10 @@
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\bin\Debug\r09546042_TerryYang_assignment_02_enhanced.exe.config
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\bin\Debug\r09546042_TerryYang_assignment_02_enhanced.exe
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\bin\Debug\r09546042_TerryYang_assignment_02_enhanced.pdb
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_02_enhanced.csprojAssemblyReference.cache
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_02.MainForm.resources
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_02_enhanced.Properties.Resources.resources
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_02_enhanced.csproj.GenerateResource.cache
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_02_enhanced.csproj.CoreCompileInputs.cache
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_02_enhanced.exe
+D:\Program Files\文件\離散事件模擬\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_02_enhanced.pdb
