@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="My_First_Class_Library.RandomVariateGenerator">
+    <Position X="7" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAACAAQCUAAQEAAAAAAAAAAAAAACAAAggAAAAAQ=</HashCode>
+      <FileName>RandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_First_Class_Library.ExponenitalRVG">
+    <Position X="1.25" Y="6.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAAAAAAAAUAAAAHAAAggAAAAAA=</HashCode>
+      <FileName>ExponenitalRVG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_First_Class_Library.UniformRVG">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAAAAAAAAEAAAADAAAggAAAAAA=</HashCode>
+      <FileName>UniformRVG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_First_Class_Library.ContinuousRandomVariateGenerator">
+    <Position X="3.25" Y="4.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>ContinuousRandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_First_Class_Library.DiscreteRandomVariateGenerator">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgEAA=</HashCode>
+      <FileName>DiscreteRandomVariateGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_First_Class_Library.GeometricDRVGenerator">
+    <Position X="10.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAACQAACAEAAAADAAAggAAAAAA=</HashCode>
+      <FileName>GeometricDRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_First_Class_Library.EquilikelyDRVGenerator">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAAAQAAAAEAAAADAAAggAAAAAA=</HashCode>
+      <FileName>EquilikelyDRVGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_First_Class_Library.BernoulliDRVG">
+    <Position X="13.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAUCAAAREAAAAUAACAEAAAADAAAggAAAAAA=</HashCode>
+      <FileName>BernoulliDRVG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Random_Variate_Generator_Library.Continuous_RVG_Type">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Continuous_RVG_Type.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>

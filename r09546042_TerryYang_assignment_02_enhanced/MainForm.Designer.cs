@@ -142,7 +142,7 @@ namespace r09546042_TerryYang_assignment_02
             this.TOS_BTN_open.Size = new System.Drawing.Size(84, 36);
             this.TOS_BTN_open.Tag = "*DAT";
             this.TOS_BTN_open.Text = "Open...";
-            this.TOS_BTN_open.Click += new System.EventHandler(this.toolStripButton1_Click);
+            this.TOS_BTN_open.Click += new System.EventHandler(this.TOS_BTN_open_Click);
             // 
             // TOS_BTN_open_excel
             // 
@@ -151,7 +151,7 @@ namespace r09546042_TerryYang_assignment_02
             this.TOS_BTN_open_excel.Name = "TOS_BTN_open_excel";
             this.TOS_BTN_open_excel.Size = new System.Drawing.Size(143, 36);
             this.TOS_BTN_open_excel.Text = "Open_From_Excel";
-            this.TOS_BTN_open_excel.Click += new System.EventHandler(this.toolStripButton1_Click_1);
+            this.TOS_BTN_open_excel.Click += new System.EventHandler(this.TOS_BTN_open_excel_Click);
             // 
             // TOS_BTN_analyze
             // 
@@ -161,7 +161,7 @@ namespace r09546042_TerryYang_assignment_02
             this.TOS_BTN_analyze.Name = "TOS_BTN_analyze";
             this.TOS_BTN_analyze.Size = new System.Drawing.Size(87, 36);
             this.TOS_BTN_analyze.Text = "Analyze";
-            this.TOS_BTN_analyze.Click += new System.EventHandler(this.toolStripButton2_Click);
+            this.TOS_BTN_analyze.Click += new System.EventHandler(this.TOS_BTN_analyze_Click);
             // 
             // DownMenuStrip
             // 
@@ -306,7 +306,7 @@ namespace r09546042_TerryYang_assignment_02
             this.BTN_save.TabIndex = 11;
             this.BTN_save.Text = "Save Data";
             this.BTN_save.UseVisualStyleBackColor = true;
-            this.BTN_save.Click += new System.EventHandler(this.button4_Click);
+            this.BTN_save.Click += new System.EventHandler(this.BTN_save_Click);
             // 
             // BTN_Creat
             // 
@@ -318,7 +318,7 @@ namespace r09546042_TerryYang_assignment_02
             this.BTN_Creat.TabIndex = 10;
             this.BTN_Creat.Text = "Creat Data";
             this.BTN_Creat.UseVisualStyleBackColor = true;
-            this.BTN_Creat.Click += new System.EventHandler(this.button3_Click);
+            this.BTN_Creat.Click += new System.EventHandler(this.BTN_Creat_Click);
             // 
             // TB_NOJ
             // 
@@ -694,7 +694,7 @@ namespace r09546042_TerryYang_assignment_02
             this.BTN_ShowPlot.TabIndex = 0;
             this.BTN_ShowPlot.Text = "Show_Plot";
             this.BTN_ShowPlot.UseVisualStyleBackColor = true;
-            this.BTN_ShowPlot.Click += new System.EventHandler(this.button1_Click);
+            this.BTN_ShowPlot.Click += new System.EventHandler(this.BTN_ShowPlot_Click);
             // 
             // BTN_ResetPlot
             // 
@@ -706,7 +706,7 @@ namespace r09546042_TerryYang_assignment_02
             this.BTN_ResetPlot.TabIndex = 1;
             this.BTN_ResetPlot.Text = "Reset";
             this.BTN_ResetPlot.UseVisualStyleBackColor = true;
-            this.BTN_ResetPlot.Click += new System.EventHandler(this.button2_Click);
+            this.BTN_ResetPlot.Click += new System.EventHandler(this.BTN_ResetPlot_Click);
             // 
             // tabPage4
             // 

@@ -1,0 +1,35 @@
+i<-0, l<-S, Md<-0, Mo<-0, Mu<-0, M+<-0, M-<-0, od<-0
+
+LevelPlot(0, S)
+
+while i <n
+	d<-Equilikely(), Md <- Md+d
+	
+	if od>0 //previously reorder
+		LevelPlot(i+b, od)
+		l<-od-(1-b)*d
+		LevelPlot(i+1, l), M+ <- M++(od-d/2)
+		od<-0
+		
+	else //no previously reorder
+		l<-l-d
+		LevelPlot(i+1, l), M+<-M+(l+d/2)
+
+		if l <0
+			M+ <- M++(l/2(l+d))
+			M- <- M-+(d/2(l+d))
+		else
+			M+ <- M++l-d/2
+
+		if l<s //reorder		
+			d<-Equilikely(), Md <- Md+d
+			b<-rnd(0, 1)
+				
+			if l <0
+				M- <- M-+(-1-d*b/2))
+			else
+				M+ <- M++l-d*b/2
+			
+			LevelPlot(i+1+b, l-d*b)
+			od<-S-d*b, Mo <- Mo+S, Mu <- Mu+1
+

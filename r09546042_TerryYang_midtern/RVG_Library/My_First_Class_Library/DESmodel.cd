@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Random_Variate_Generator_Library.Clients">
+    <Position X="3" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAAAASAAAAAAAABAAAAAACAAAAAAQAAACA=</HashCode>
+      <FileName>Clients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.Client_Generator">
+    <Position X="5.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAQEAAIAgAAAAAAgAAACIAAAAAAAAASAAgAAAEAAAAg=</HashCode>
+      <FileName>Client_Generator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.Discrete_Event">
+    <Position X="10" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAAAGAAAAAIAAAAAAAAAAAgAAAAAAAAAEAAgg=</HashCode>
+      <FileName>Discrete_Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.Client_Arrival_Event">
+    <Position X="8.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAQAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Client_Arrival_Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.TimedQueue">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACCEAAAAAAABAAACAIBAAQCAAMEBYAAQAAAAgAiCAA=</HashCode>
+      <FileName>TimedQueue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.Server">
+    <Position X="5.5" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>EAABAAACIAAShAAAAINBAgwAAAAAQIQAAAAgJBCBQAE=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.Service_Node">
+    <Position X="3" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAARAAAAAAAAAFAAAAAIACYAACAA=</HashCode>
+      <FileName>Service_Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.Service_Complete_Event">
+    <Position X="11.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service_Complete_Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.Discrete_Event_Simulation_Engine">
+    <Position X="14.25" Y="5.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>EAAEAAAAAAgADAAMAAAAAQAIAACASAAhCAEAAAACBAQ=</HashCode>
+      <FileName>Discrete_Event_Simulation_Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.Discrete_Event_Simulation_Model">
+    <Position X="14.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAgIAAAgQARCAIAAAAEAAAAACAEAAAACYAI=</HashCode>
+      <FileName>Discrete_Event_Simulation_Model.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.gannt">
+    <Position X="13" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAABAAAABAAAAAAAAAAAAQAAAAAAAAAAAE=</HashCode>
+      <FileName>gannt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.pie">
+    <Position X="15.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAABBAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Pie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Random_Variate_Generator_Library.step_line">
+    <Position X="17.25" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAhAAAABAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>step_line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Random_Variate_Generator_Library.Client_State">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAACAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Client_State.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Random_Variate_Generator_Library.Server_State">
+    <Position X="9" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIABAAAAAAAAABAAAAAAAAAAAAAAAAAAAEAAAI=</HashCode>
+      <FileName>Server_State.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>

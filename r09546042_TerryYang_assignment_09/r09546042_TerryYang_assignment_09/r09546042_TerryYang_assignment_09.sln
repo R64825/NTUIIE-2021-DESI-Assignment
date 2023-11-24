@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_09", "assignment_09\Assignment_09.csproj", "{A2136457-F4F6-43AE-A8D5-5F27FAF8207D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random_Variate_Generator_Library", "..\Discrete_Event_Libraries\My_First_Class_Library\Random_Variate_Generator_Library.csproj", "{1FB98987-1804-4C52-A3B3-7DF2CC478802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2136457-F4F6-43AE-A8D5-5F27FAF8207D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2136457-F4F6-43AE-A8D5-5F27FAF8207D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2136457-F4F6-43AE-A8D5-5F27FAF8207D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2136457-F4F6-43AE-A8D5-5F27FAF8207D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F7CC8CF-2F75-4C16-BB79-F5EC03A22FAA}
+	EndGlobalSection
+EndGlobal

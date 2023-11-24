@@ -1,0 +1,14 @@
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\bin\Debug\My_First_Class_Library.dll
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\bin\Debug\My_First_Class_Library.pdb
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\bin\Debug\My_First_Class_Library.xml
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_05.csprojAssemblyReference.cache
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_02.MainForm.resources
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_05.csproj.GenerateResource.cache
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_05.csproj.CoreCompileInputs.cache
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_05.csproj.CopyComplete
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\bin\Debug\r09546042_TerryYang_assignment_05.exe.config
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\bin\Debug\r09546042_TerryYang_assignment_05.exe
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\bin\Debug\r09546042_TerryYang_assignment_05.pdb
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_05.Properties.Resources.resources
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_05.exe
+C:\Users\TerryYang\Desktop\r09546042_TerryYang_assignment_02\obj\Debug\r09546042_TerryYang_assignment_05.pdb

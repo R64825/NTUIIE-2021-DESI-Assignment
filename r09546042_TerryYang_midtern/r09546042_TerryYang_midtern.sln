@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r09546042_TerryYang_midtern", "r09546042_TerryYang_assignment_08\r09546042_TerryYang_midtern.csproj", "{609ABEFD-6746-44A7-AC1B-9683C8713298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random_Variate_Generator_Library", "RVG_Library\My_First_Class_Library\Random_Variate_Generator_Library.csproj", "{1FB98987-1804-4C52-A3B3-7DF2CC478802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609ABEFD-6746-44A7-AC1B-9683C8713298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609ABEFD-6746-44A7-AC1B-9683C8713298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609ABEFD-6746-44A7-AC1B-9683C8713298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609ABEFD-6746-44A7-AC1B-9683C8713298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB98987-1804-4C52-A3B3-7DF2CC478802}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60383FEE-93D8-42ED-B14C-0EA226FC59BB}
+	EndGlobalSection
+EndGlobal
